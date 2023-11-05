@@ -237,7 +237,8 @@ INFO  [alembic.autogenerate.compare] Detected added table 'games'
   Generating ...python-p3-sqlalchemy-one-to-many/one-to-many/migrations/versions/62797912f786_create_model.py ...  done
 ```
 
-Run `alembic upgrade head` to generate a database with your `Game` model.
+Run `ls
+` to generate a database with your `Game` model.
 
 ### The Review Model
 
